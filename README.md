@@ -1,4 +1,4 @@
- <h2 align='left'>Data Analyst/Data Science</h2>
+ <h3 align='left'>Data Analyst/ Data Science</h3>
  
 ### Hello, I'm Joshi Babu!👋
 
