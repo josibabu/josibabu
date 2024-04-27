@@ -1,15 +1,14 @@
- <h2 align='left'>Data Science  🚀 Engineer</h2>
- ## Hello there 👋, I'm Joshi Babu!
- * I’m looking for a Entry Level DevOps/SRE/Cloud Role. 
- * DevOps/Cloud/SRE/Systems Admin.
- * B.Tech Electrictal.
- * AWS learner
- <!--<p align='center'><hr/></p>-->
- <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
- <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
-  🙂 I’m good with basics and fundamentals in AWS
-  🙂 I’m knowledgable in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
-  🌱 I’m good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning futher DevOps & QA Testing tools and Methodology workflows.
+ <h2 align='left'>Data Analyst/Data Science</h2>
+ 
+### Hello, I'm Joshi Babu!👋
+
+- 👀 I’m looking for a Entry Level, Data analyst/Business Analyst/Data science Roles.
+- 📚 Graduated ...  B.Tech Electrictal .. Mahatma Gandhi Institute of Technology.
+- 🌱 I’m currently working on ... Data Science, Machine Learning,EDA.
+- 🧑🏽‍💼 I'm currently working as customer support role.
+- 📜 certified in AWS Cloud Paractioner.
+- ⚡ Fun fact: ... I enjoy cooking 😄 
+
 <!---
 - 👋 Hi, I’m @josibabu
 - 👀 I’m interested in Data Science
@@ -23,3 +22,18 @@
 josibabu/josibabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Languages and Tools
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
+<br />
+
+<!-- for details about the github stats -> https://github.com/anuraghazra/github-readme-stats -->
+<!-- youtube tutorial to make github profile readme perfect -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=47s&ab_channel=codeSTACKr)
