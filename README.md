@@ -5,9 +5,9 @@
 - 👀 I’m looking for a Entry Level, Data analyst/Business Analyst/Data science Roles.
 - 📚 Graduated ...  B.Tech Electrictal .. Mahatma Gandhi Institute of Technology.
 - 🌱 I’m currently working on ... Data Science, Machine Learning,EDA.
-- 🧑🏽‍💼 I'm currently working as customer support role.
-- 📜 certified in AWS Cloud Paractioner.
-- ⚡ Fun fact: ... I still enjoing watching 80's & 90's cartoons and Anime 😄 
+- 🧑🏽‍💼 I'm currently working as Customer Support role.
+- 📜 Certified in AWS Cloud Paractioner.
+- ⚡ Fun fact: ... I still enjoing watching 80's & 90's cartoons and also Anime 😄 
 
 <!---
 - 👋 Hi, I’m @josibabu
