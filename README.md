@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on ... Data Science, Machine Learning,EDA.
 - 🧑🏽‍💼 I'm currently working as Customer Support role.
 - 📜 Certified in AWS Cloud Paractioner.
-- ⚡ Fun fact: ... I still enjoy watching 80's & 90's cartoons and  Anime 😄 
+- ⚡ Fun fact: ... I still enjoy watching 80's & 90's Anime and Cartoons 😄 
 
 <!---
 - 👋 Hi, I’m @josibabu
