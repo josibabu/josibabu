@@ -1,4 +1,4 @@
- <h3 align='left'>Data Analyst/ Data Science</h3>
+ <h3 align='left'>Data Analysis/ Data Science</h3>
  
 ### Hello, I'm Joshi Babu!👋
 
@@ -32,10 +32,8 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Power BI Desktop" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Desktop.png" />
+<br/>
+<br/>
 
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-joshibabu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/joshi-babu-lingala-ab9b3883/)](https://www.linkedin.com/in/joshi-babu-lingala-ab9b3883)
 
-<br />
-<br />
-
-<!-- for details about the github stats -> https://github.com/anuraghazra/github-readme-stats -->
-<!-- youtube tutorial to make github profile readme perfect -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=47s&ab_channel=codeSTACKr)
